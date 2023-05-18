@@ -1,0 +1,49 @@
+created: 20230509072153314
+modified: 20230509075739884
+tags: 
+title: $:/plugins/tomzheng/luckysheet/introduce
+type: text/vnd.tiddlywiki
+
+LuckySheet is a full-featured JavaScript implementation of spreadsheet products. Developed by Chinese. The MIT license is adopted.
+
+Here are some of the features of Luckysheet:
+
+1. Ability to copy and paste multiple cells.
+
+2. Can fill cells.
+
+3. Can import and export excel files (this plugin is not implemented).
+
+4. Can generate pivot tables
+
+5. Ability to generate charts.
+
+6. Able to calculate by formula.
+
+My first attempt to bring LuckySheet to Tiddlywiki failed. There is no way to deal with jQuery issues. The second time I tried to use iframe technology, it worked.
+
+LuckySheet's files are not embedded in TiddlyWiki, but are in the form of CDN packages referencing JavaScript. Because LuckySheet is still under intensive development, you can take advantage of the latest features of LuckySheet. The disadvantage is that it cannot load quickly locally. If someone has free time, they can make a fully embedded version.
+
+zh:
+
+luckysheet是一个全功能的javascript实现的电子表格产品。由中国人开发。采用MIT授权协议。
+
+以下是luckysheet的一些功能：
+
+1. 能够多单元格复制粘贴。
+
+2. 能填充单元格。
+
+3. 能导入导出excel文件（本插件未实现）。
+
+4. 能生成数据透视表
+
+5. 能生成图表。
+
+6. 能够公式计算。
+
+我尝试将luckysheet引入tiddlywiki的第一次尝试失败了。没办法处理jquery问题。第二次我用iframe技术的尝试成功了。
+
+目前没有将luckysheet的文件嵌入tiddlywiki，而是采用了引用javascript的cdn包的形式。因为luckysheet还在密集开发，这样可以用上luckysheet的最新功能。缺点是不能本地快速加载。如果有人有空闲时间可以做一个全嵌入的版本。
+
+

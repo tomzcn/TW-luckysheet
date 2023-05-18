@@ -4,20 +4,40 @@ tags:
 title: $:/plugins/tomzheng/luckysheet/doc
 type: text/vnd.tiddlywiki
 
-steps:
+Steps:
 
-1. click "start luckysheet"
+1. Click "Start Luckysheet"
 
-if loading can not stop or raise error, look "knowed problem" in followed.
+If loading fails to stop or throws an error, check the Known Issues section below.
 
-2. operate the spreadsheet.
+2. Manipulate the spreadsheet.
 
-3. click "save luckysheet"
+3. Click "Save Luckysheet"
 
-knowed problem:
+Known issues:
 
-javascript library cdn can not connect so loading can not stop or raise error.
+The JavaScript library CDN cannot be connected, so the loading cannot be stopped or an error is thrown.
 
-test connect by click followed link:
+Test the connection by clicking the following link:
+
+https://tomzcn.github.io/TW-luckysheet/test-cdn.html
+
+zh:
+
+步骤：
+
+1. 点击“start luckysheet”
+
+如果加载无法停止或引发错误，请查看后面的“已知问题”。
+
+2. 操作电子表格。
+
+3. 点击“save luckysheet”
+
+已知问题：
+
+JavaScript库CDN无法连接，因此加载无法停止或引发错误。
+
+通过单击以下链接测试连接：
 
 https://tomzcn.github.io/TW-luckysheet/test-cdn.html
