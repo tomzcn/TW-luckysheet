@@ -1,0 +1,14 @@
+{
+    "title": "$:/plugins/tomzheng/luckysheet",
+    "name": "",
+    "description": "",
+    "author": "tomzheng",
+    "version": "0.0.1",
+    "core-version": "5.2.5",
+    "source": "https://github/tomzcn/TW-luckysheet",
+    "list": "readme doc",
+    "parent-plugin": "",
+    "dependents": "",
+    "plugin-type": "plugin",
+    "packaged-by": ""
+}

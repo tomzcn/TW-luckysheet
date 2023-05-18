@@ -1,0 +1,23 @@
+created: 20230509072153314
+modified: 20230509075739884
+tags: 
+title: $:/plugins/tomzheng/luckysheet/doc
+type: text/vnd.tiddlywiki
+
+steps:
+
+1. click "start luckysheet"
+
+if loading can not stop or raise error, look "knowed problem" in followed.
+
+2. operate the spreadsheet.
+
+3. click "save luckysheet"
+
+knowed problem:
+
+javascript library cdn can not connect so loading can not stop or raise error.
+
+test connect by click followed link:
+
+https://tomzcn.github.io/TW-luckysheet/test-cdn.html

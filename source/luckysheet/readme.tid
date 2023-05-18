@@ -1,0 +1,34 @@
+created: 20230509072153314
+modified: 20230509075739884
+tags: 
+title: $:/plugins/tomzheng/luckysheet/readme
+type: text/vnd.tiddlywiki
+
+demo:
+
+<div>
+
+<span>
+<$button  >
+<$action-sendmessage $message="tm-luckysheet-start" $ />
+start luckysheet
+</$button>
+</span>
+
+<span>
+<$button  >
+<$action-sendmessage $message="tm-luckysheet-save" $ />
+save luckysheet
+</$button>
+</span>
+
+</div>
+
+<br>
+
+<div id="luckysheetdiv"></div>
+
+<!-- <iframe id="luckysheet-iframe" style = "width:1024px;height:768px;"> -->
+<iframe id="luckysheet-iframe" style = "width:1024px;height:768px;border-width:0px;">
+</iframe>
+
